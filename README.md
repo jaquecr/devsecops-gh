@@ -1,3 +1,2 @@
-# DevOps 101
 ## Language: ASP.NET Core 
-# SonarCloud - AZ-400!
+## Welcome - AZ-400!
